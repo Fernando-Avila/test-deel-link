@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bayteq.loja.bancamovil",
+        "sha256_cert_fingerprints": [
+          "2C:CD:00:19:35:9D:A3:8D:14:FE:43:A9:9E:4A:4F:70:2D:BA:D8:22:A8:53:EC:B9:B2:DB:EB:55:40:90:52:C9"
+        ]
+      }
+    }
+  ]
