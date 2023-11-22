@@ -1,14 +1,9 @@
-[
-    {
-      "relation": [
-        "delegate_permission/common.handle_all_urls"
-      ],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.bayteq.loja.bancamovil",
-        "sha256_cert_fingerprints": [
-          "2C:CD:00:19:35:9D:A3:8D:14:FE:43:A9:9E:4A:4F:70:2D:BA:D8:22:A8:53:EC:B9:B2:DB:EB:55:40:90:52:C9"
-        ]
-      }
-    }
-  ]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bayteq.loja.bancamovil",
+    "sha256_cert_fingerprints":
+    ["B4:A2:77:BF:57:ED:27:9A:5A:0F:21:F8:FA:48:77:E6:19:04:4A:64:0C:48:CB:85:64:61:E3:CB:E8:A0:AB:33"]
+  }
+}]
